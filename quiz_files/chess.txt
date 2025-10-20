@@ -1,0 +1,108 @@
+Who is known as the “Mozart of Chess”? A) Magnus Carlsen B) Garry Kasparov C) Bobby Fischer D) Viswanathan Anand
+D
+Who is the current World Chess Champion (2023)? A) Magnus Carlsen B) Ian Nepomniachtchi C) Ding Liren D) Fabiano Caruana
+C
+Who was the first official World Chess Champion? A) Wilhelm Steinitz B) Emanuel Lasker C) José Raúl Capablanca D) Alexander Alekhine
+A
+Who is the first Indian to become a Grandmaster? A) Viswanathan Anand B) Koneru Humpy C) Pentala Harikrishna D) Krishnan Sasikiran
+A
+Which country has produced the most World Chess Champions? A) Russia/USSR B) USA C) India D) Norway
+A
+Who won the Candidates Tournament 2022 to challenge for the World Championship? A) Magnus Carlsen B) Ian Nepomniachtchi C) Ding Liren D) Fabiano Caruana
+C
+Who was nicknamed “The Beast from Baku”? A) Garry Kasparov B) Shakhriyar Mamedyarov C) Vladimir Kramnik D) Viswanathan Anand
+B
+Which Indian player is nicknamed “Tiger of Madras”? A) Pentala Harikrishna B) Viswanathan Anand C) Krishnan Sasikiran D) Baskaran Adhiban
+B
+Which country hosted the 2022 Chess Olympiad? A) India B) Norway C) Armenia D) Russia
+A
+Who is the youngest player to achieve the Grandmaster title? A) Sergey Karjakin B) Magnus Carlsen C) Bobby Fischer D) Alireza Firouzja
+D
+Which world champion was known for his famous matches against Anatoly Karpov in the 1980s? A) Garry Kasparov B) Bobby Fischer C) Viswanathan Anand D) Magnus Carlsen
+A
+Who won the World Rapid Chess Championship 2022? A) Magnus Carlsen B) Alireza Firouzja C) Ian Nepomniachtchi D) Fabiano Caruana
+B
+Which opening starts with the moves 1.e4 e5 2.Nf3 Nc6 3.Bb5? A) Sicilian Defense B) French Defense C) Ruy Lopez D) Queen’s Gambit
+C
+Which opening is known as 1.d4 d5 2.c4? A) Queen’s Gambit B) King’s Indian Defense C) Nimzo-Indian Defense D) English Opening
+A
+Which chess piece can only move diagonally? A) Rook B) Bishop C) Knight D) Queen
+B
+Which chess piece can move in an L-shape? A) Rook B) Bishop C) Knight D) Queen
+C
+Which piece is the most powerful in chess? A) King B) Queen C) Rook D) Bishop
+B
+Who was the first American World Chess Champion? A) Paul Morphy B) Bobby Fischer C) Hikaru Nakamura D) Samuel Reshevsky
+B
+Which country hosted the World Chess Championship 2013 between Anand and Carlsen? A) India B) Norway C) Russia D) USA
+C
+Who is known for the “Immortal Game” played in 1851? A) Adolf Anderssen B) Paul Morphy C) Wilhelm Steinitz D) Emanuel Lasker
+A
+Which player has the longest reign as World Chess Champion in the modern era? A) Garry Kasparov B) Magnus Carlsen C) Emanuel Lasker D) Bobby Fischer
+C
+Which Indian Grandmaster won the 2019 Biel Chess Festival? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Baskaran Adhiban
+B
+What is it called when a king is under direct attack? A) Check B) Checkmate C) Stalemate D) Pin
+A
+What is it called when a king cannot escape attack and the game ends? A) Check B) Checkmate C) Stalemate D) Zugzwang
+B
+Which chess notation describes moving a pawn to e4? A) Pe4 B) P-e4 C) e4 D) Pawn e4
+C
+Who won the Candidates Tournament 2020? A) Magnus Carlsen B) Ian Nepomniachtchi C) Fabiano Caruana D) Alexander Grischuk
+B
+Which Indian Grandmaster defeated Magnus Carlsen in the 2013 World Cup? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Baskaran Adhiban
+C
+Which chess player is famous for the “Fischer Random” chess variant? A) Bobby Fischer B) Garry Kasparov C) Magnus Carlsen D) Viswanathan Anand
+A
+Which chess piece starts on the corner squares of the board? A) Bishop B) Rook C) Knight D) Queen
+B
+Which chess piece starts next to the king and queen? A) Bishop B) Rook C) Knight D) Queen
+C
+Who is the first Indian woman to achieve the Grandmaster title? A) Koneru Humpy B) Harika Dronavalli C) Tania Sachdev D) Mary Ann Gomes
+A
+Which opening starts with 1.e4 c5? A) Sicilian Defense B) French Defense C) Caro-Kann Defense D) King’s Gambit
+A
+Who won the 2022 World Blitz Chess Championship? A) Magnus Carlsen B) Hikaru Nakamura C) Alireza Firouzja D) Ian Nepomniachtchi
+C
+Which chess tactic involves attacking two pieces simultaneously? A) Pin B) Fork C) Skewer D) Discovered Attack
+B
+Which chess tactic involves attacking a more valuable piece to capture a lesser piece behind it? A) Pin B) Fork C) Skewer D) Discovered Attack
+C
+Which chess tactic involves moving a piece to reveal an attack from another piece? A) Pin B) Fork C) Skewer D) Discovered Attack
+D
+Who is known as the “Mozart of Madras” in Indian chess? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Koneru Humpy
+A
+Which country hosted the 2021 World Chess Championship? A) India B) Norway C) Dubai D) Russia
+C
+Who was the youngest ever World Chess Champion? A) Magnus Carlsen B) Garry Kasparov C) Bobby Fischer D) Viswanathan Anand
+B
+Which chess piece cannot move backward? A) Pawn B) Knight C) Bishop D) Rook
+A
+Which chess player is nicknamed “The Beast of Baku”? A) Magnus Carlsen B) Shakhriyar Mamedyarov C) Fabiano Caruana D) Hikaru Nakamura
+B
+Which Indian Grandmaster won the 2018 Biel Chess Festival? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Baskaran Adhiban
+B
+Which chess piece can move both diagonally and straight? A) Rook B) Bishop C) Queen D) Knight
+C
+Who won the 2013 World Chess Championship? A) Viswanathan Anand B) Magnus Carlsen C) Fabiano Caruana D) Boris Gelfand
+B
+Which chess piece starts next to the king on the first rank? A) Bishop B) Rook C) Queen D) Knight
+A
+Which Indian GM became the 2nd youngest Grandmaster in history? A) Viswanathan Anand B) Pentala Harikrishna C) Praggnanandhaa Rameshbabu D) Krishnan Sasikiran
+C
+Which country hosted the 2022 Candidates Tournament? A) India B) Spain C) Germany D) Russia
+B
+Which chess piece can jump over other pieces? A) Rook B) Bishop C) Knight D) Queen
+C
+Which chess tactic traps the king in a position where it cannot move but is not in check? A) Check B) Checkmate C) Stalemate D) Fork
+C
+Who is the youngest Indian Grandmaster ever? A) Viswanathan Anand B) Praggnanandhaa Rameshbabu C) Pentala Harikrishna D) Krishnan Sasikiran
+B
+Who won the 2019 World Rapid Chess Championship? A) Magnus Carlsen B) Hikaru Nakamura C) Ian Nepomniachtchi D) Fabiano Caruana
+A
+Who is the first Indian player to beat Magnus Carlsen in a classical game? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Baskaran Adhiban
+A
+Which chess player is nicknamed “The Tiger of Madras”? A) Viswanathan Anand B) Pentala Harikrishna C) Krishnan Sasikiran D) Praggnanandhaa
+A
+Which chess piece is considered the “soul of chess”? A) King B) Queen C) Bishop D) Rook
+A
